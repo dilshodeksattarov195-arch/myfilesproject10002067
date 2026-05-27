@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildtringify",
+        "uuid": 18247476,
+        "checksum": "f0cdqr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
